@@ -7,9 +7,9 @@ public class Main {
 
         while (number <= 50) {
             if (number % 15 == 0) {
-                System.out.println("ka-ching");
+                System.out.println("ka-ching!");
             } else if (number % 5 == 0) {
-                System.out.println("ching");
+                System.out.println("ching!");
             } else if (number % 3 == 0) {
                 System.out.println("ka");
             } else {
